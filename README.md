@@ -68,9 +68,3 @@ The first week was dedicated to understanding the core syntax and essential buil
 - A computer with a supported operating system (Windows, macOS, Linux)
 - Java Development Kit (JDK) installed
 - A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse
-
-## How to Use This Repository
-- Clone or download this repository
-- Explore each folder corresponding to each day’s topic
-- Open the code files in your preferred IDE or editor
-- Practice and modify the code to reinforce your understanding
